@@ -1,4 +1,4 @@
-package com.fkp.utils;
+package com.bcinfo.umap.utils;
 
 public class CryptoUtil {
     public static String getMD5String(String str) {
